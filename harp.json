@@ -1,0 +1,13 @@
+{
+  "globals": {
+    "title": "Kill All Humans Lab",
+    "description": "Applied AI research group",
+    "name": "Kill All Humans Lab",
+    "email": "a.baygeldin@gmail.com",
+    "uri": "kill-all-humans-lab.github.io",
+
+    "typekit": false,
+    "analytics": false,
+    "disqus": "killallhumanslab"
+  }
+}
